@@ -1,0 +1,22 @@
+.titulo {
+	color:#666;
+	font-family:sans-serif;
+	text-shadow: 0 0 0.4em #FE9A2E , 0 0 0.4em #FE9A2E , 0 0 0.4em #FE9A2E;
+	}
+
+p {
+	font-size:14px;
+}
+
+.contorno {
+	margin: 20px; 
+  	border: #FAAC58 4px solid; 
+  	border-radius: 10px;
+}
+
+.imagen {
+	width: 400px;
+}
+
+
+
